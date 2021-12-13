@@ -1,0 +1,24 @@
+{
+  "name": "music_website",
+  "version": "1.0.0",
+  "description": "Website that compares top music in Tajikistan and the USA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealtaylorle/CSCI-310-Final-Project.git"
+  },
+  "author": "Sarvinoz Kamolova and Luke Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealtaylorle/CSCI-310-Final-Project/issues"
+  },
+  "homepage": "https://github.com/therealtaylorle/CSCI-310-Final-Project#readme",
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.2.3"
+  }
+}
